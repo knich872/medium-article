@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.top-banner-container {
+  background: radial-gradient(ellipse at left, #01313a, transparent), radial-gradient(ellipse at bottom, #17cbf8, transparent);
+  height: 500px;
+  width: 100%;
+}
+
+.banner-title {
+  font-family: Roboto Condensed;
+  font-size: 3rem;
+  padding: 170px 25% 50px 30%;
+  line-height: 60px;
+}
+
+.banner-italics {
+  font-family: Quicksand;
+  font-size: 2rem;
+  padding: 0px 25% 40px 30%;
+  line-height: 20px;
+}
+
+.banner {
+  color: white;
+  margin: 0;
+  word-spacing: 2px;
+}
+
+.main-text-container > h3 {
+  font-size: 2rem;
+  color: darkgray;
+  line-height: 80px;
+}
+
+.main-text-container {
+  font-family: Wix Madefor Text;
+  font-size: 1.5rem;
+  padding: 0 25% 0 25%;
+  line-height: 35px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.colored-text {
+  font-family: Playfair;
+  color: black;
+  padding: 0;
+  margin: 0;
+  background-color: rgba(183, 234, 96, 0.4);
+  width: 410px;
+}
