@@ -33,13 +33,13 @@ a {
   word-spacing: 2px;
 }
 
-.main-text-container > h3 {
+.main-article-container > h3 {
   font-size: 2rem;
   color: darkgray;
   line-height: 80px;
 }
 
-.main-text-container {
+.main-article-container {
   font-family: Wix Madefor Text;
   font-size: 1.5rem;
   padding: 0 25% 0 25%;
